@@ -28,7 +28,7 @@ PowerPortNamesTakePriority=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
-OutputPath=Project Outputs for Sensor Package
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -88,108 +88,6 @@ GenerateClassCluster=0
 DocumentUniqueId=LSRASPNJ
 
 [Document4]
-DocumentPath=..\..\..\..\..\Mini-Rambo\board\libraries\3Delight.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
-DocumentPath=..\..\..\..\..\Mini-Rambo\board\libraries\3Delight.SCHLIB
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
-DocumentPath=..\..\..\..\..\Tigershark3D\PCB-Rev2\Libraries\Tigershark3D.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=..\..\..\..\..\Tigershark3D\PCB-Rev2\Libraries\Tigershark3D.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
-DocumentPath=..\..\..\..\..\altiumPartLib\Adams Altium Library.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
-DocumentPath=..\..\..\..\..\altiumPartLib\Adams Altium Library.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=BRWRGPIJ
-
-[Document10]
 DocumentPath=SensorModule.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -205,58 +103,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ETRAPYOU
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Sensor Package\SensorModule.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Sensor Package\SensorModule.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Sensor Package\SensorModule.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Sensor Package\SensorModule.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Sensor Package\SensorModule.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Sensor Package\SensorModule.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Sensor Package\SensorModule.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Sensor Package\SensorModule.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Sensor Package\SensorModule.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Sensor Package\SensorModule.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Sensor Package\SensorModule.REP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Sensor Package\SensorModule.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Sensor Package\SensorModule.TXT
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
@@ -305,7 +151,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for Sensor Package
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
