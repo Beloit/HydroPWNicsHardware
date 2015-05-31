@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [SensorModule_Digital.PrjPcb]
+   Generated File[Digital Sensor Module.TXT]
+   Generated File[Digital Sensor Module.LDP]
+   Generated File[Digital Sensor Module.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:54:13 AM On 5/27/2015
